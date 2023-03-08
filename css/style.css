@@ -45,13 +45,11 @@ body{
 body.dark-mode{
     background-color: rgb(18, 19, 58);
     color: white;
-    transition: 0.5s;
 }
 
 .card-dark{
     background-color: #2f2b87;
     color: white;
-    transition: 0.5s;
 }
 
 .boton-ver{
@@ -75,11 +73,19 @@ body.dark-mode{
 }
 
 .btn-destino:hover{
-    color: #2b50aa;
-    border: 2px solid #2b50aa;
+    color: #2f2b87;
+    border: 2px solid #2f2b87;
     border-radius: .25rem;
 }
 
 .btn-destino-dark{
-    background-color: red;
+    background-color: #2f2b87;
+    color: white;
+    border: none;
+}
+
+.btn-destino-dark:hover{
+    color: white;
+    border: 2px solid white;
+    border-radius: .25rem;
 }

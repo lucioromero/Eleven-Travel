@@ -1,0 +1,5 @@
+[
+    {"id":"santa-marta","nombre":"Santa Marta","ciudad":"Magdalena","pais":"Colombia","precio":"78000"},
+    {"id":"cartagena","nombre":"Cartagena","ciudad":"Bolivar","pais":"Colombia","precio":"71000"},
+    {"id":"bogota","nombre":"Bogota","ciudad":"Antioquia","pais":"Colombia","precio":"65000"}
+]

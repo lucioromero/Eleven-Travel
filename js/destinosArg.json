@@ -1,0 +1,6 @@
+[
+    {"id":"tandil","nombre":"Tandil","ciudad":"Buenos Aires","pais":"Argentina","precio":"35000"},
+    {"id":"bariloche","nombre":"Bariloche","ciudad":"Rio Negro","pais":"Argentina","precio":"52000"},
+    {"id":"carlos-paz","nombre":"Villa Carlos Paz","ciudad":"Córdoba","pais":"Argentina","precio":"46000"}
+]
+

@@ -1,0 +1,5 @@
+[
+    {"id":"fortaleza","nombre":"Fortaleza","ciudad":"Ceará","pais":"Brasil","precio":"87000"},
+    {"id":"porto","nombre":"Porto Alegre","ciudad":"Rio Grande","pais":"Brasil","precio":"92000"},
+    {"id":"copacabana","nombre":"Copacabana","ciudad":"Rio de Janeiro","pais":"Brasil","precio":"81500"}
+]
